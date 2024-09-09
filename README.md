@@ -22,7 +22,7 @@ This is my personal portfolio built using [Three.js](https://threejs.org/), show
 ## Credits
 [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) – thanks for teaching 3.js concepts ❤️❤️❤️
 
-![Alt text](./assets/pic.png)
+![Alt text](./public/assets/pic.png)
 
 ## Project Structure
 ```bash
