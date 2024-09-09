@@ -22,6 +22,8 @@ This is my personal portfolio built using [Three.js](https://threejs.org/), show
 ## Credits
 [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) – thanks for teaching 3.js concepts ❤️❤️❤️
 
+![Alt text](./assets/pic.png)
+
 ## Project Structure
 ```bash
 ├── public/                 # Static files
@@ -37,4 +39,3 @@ This is my personal portfolio built using [Three.js](https://threejs.org/), show
 ├── package.json            # Project dependencies and scripts
 └── README.md               # Project documentation
 
-![Alt text](./assets/pic.png)
